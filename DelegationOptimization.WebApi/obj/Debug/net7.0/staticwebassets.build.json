@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HpyVAHeRcDXvsT060dPSllXUXnhUWlU6FeWwtSv4VwQ=",
+  "Source": "DelegationOptimization.WebApi",
+  "BasePath": "_content/DelegationOptimization.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
